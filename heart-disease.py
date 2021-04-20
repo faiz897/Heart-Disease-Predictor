@@ -143,7 +143,7 @@ def comp_matrix(baseline_matrix, rs_matrix, gs_matrix):
 # create a function for saving our improved model
 def save_model(rs_model, gs_model, rs_matrix, gs_matrix):
     '''
-    This function can compares the accuracy of all three models and save the model which has best accuracy.
+    This function can compares the accuracy of all improved models and save the model which has best accuracy.
     '''
     print("\n")
     Model_name = "heart-disease-model.pkl"
