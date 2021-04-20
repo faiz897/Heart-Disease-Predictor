@@ -19,5 +19,5 @@ The data on which the model will be trained has follows some features below:-
 13. thal: 3=normal, 6=fixed defect, 7=reversable defect
 14. target: 0=not desease, 1=disease
 
-This data set contains these features. If you want to know more about the data then you may visit the kaggle heart disease UCI https://www.kaggle.com/ronitf/heart-disease-uci<br>
+This data set contains these features. If you want to know more about the data then you may visit the kaggle heart disease UCI https://www.kaggle.com/ronitf/heart-disease-uci.<br>
 This data is also available for github users in the resources of the repository.
