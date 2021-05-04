@@ -1,4 +1,6 @@
 # Heart-Disease-Predictor
+Supervised learning with binary classification
+
 Machine learning model which can predict a person having a heart disease or not.<br>
 Binary classification model with supervised learning.
 
